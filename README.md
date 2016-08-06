@@ -5,7 +5,7 @@
 #### 2016-05
 
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
-- End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF [[arXiv](https://arxiv.org/abs/1603.01354)]
+- [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](notes/seq-labeling.md) [[arXiv](https://arxiv.org/abs/1603.01354)]
 
 #### 2015-12
 
