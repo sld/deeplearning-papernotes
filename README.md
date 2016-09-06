@@ -7,6 +7,11 @@
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
 - [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](notes/seq-labeling.md) [[arXiv](https://arxiv.org/abs/1603.01354)]
 
+#### 2016-02
+
+- [A Roadmap towards Machine Intelligence](notes/a-roadmap-towards-mi.md) [[arXiv](http://arxiv.org/abs/1511.08130)]
+
+
 #### 2015-12
 
 - Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks  [[arXiv](https://arxiv.org/abs/1502.05698)]
