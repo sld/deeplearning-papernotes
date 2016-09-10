@@ -14,7 +14,7 @@
 
 #### 2015-12
 
-- Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks  [[arXiv](https://arxiv.org/abs/1502.05698)]
+- [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
 #### Ссылки
 
