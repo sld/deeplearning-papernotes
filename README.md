@@ -10,6 +10,7 @@
 #### 2016-02
 
 - [A Roadmap towards Machine Intelligence](notes/a-roadmap-towards-mi.md) [[arXiv](http://arxiv.org/abs/1511.08130)]
+  - [CommAI-env](notes/comm-ai.md) [[github](https://github.com/facebookresearch/CommAI-env)]
 
 
 #### 2015-12
