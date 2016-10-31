@@ -20,3 +20,4 @@
 #### Ссылки
 
 - https://github.com/dennybritz/deeplearning-papernotes
+- https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
