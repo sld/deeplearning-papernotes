@@ -2,6 +2,11 @@
 
 - [Representation learning for very short texts using weighted word embedding aggregation](notes/very-short-texts.md) [[arXiv](http://arxiv.org/abs/1607.00570)]
 
+#### 2016-06
+
+- [Dialog State Tracking Challenge 5 Handbook v3.1] (notes/dstc5-hand.md) [[DSTC5](https://github.com/seokhwankim/dstc5/raw/master/docs/handbook_DSTC5.pdf)]
+- Neural Belief Tracker: Data-Driven Dialogue State Tracking [[arXiv](https://arxiv.org/abs/1606.03777)]
+
 #### 2016-05
 
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
@@ -11,6 +16,10 @@
 
 - [A Roadmap towards Machine Intelligence](notes/a-roadmap-towards-mi.md) [[arXiv](http://arxiv.org/abs/1511.08130)]
   - [CommAI-env](notes/comm-ai.md) [[github](https://github.com/facebookresearch/CommAI-env)]
+
+#### 2016
+
+- The Dialog State Tracking Challenge Series: A Review [[Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)]
 
 
 #### 2015-12
