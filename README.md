@@ -19,7 +19,7 @@
 
 #### 2016
 
-- The Dialog State Tracking Challenge Series: A Review [[Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)]
+- [The Dialog State Tracking Challenge Series: A Review](notes/dstc-review.md) [[Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)]
 
 
 #### 2015-12
