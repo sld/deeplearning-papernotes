@@ -20,10 +20,12 @@
 #### 2016
 
 - [The Dialog State Tracking Challenge Series: A Review](notes/dstc-review.md) [[Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)]
+- The Fourth Dialog State Tracking Challenge [[ResearchGate](https://www.researchgate.net/profile/Seokhwan_Kim4/publication/296223502_The_Fourth_Dialog_State_Tracking_Challenge/links/56d3b9ea08ae059e37612d24.pdf)]
 
 
 #### 2015-12
 
+- A Survey of Available Corpora for Building Data-Driven Dialogue Systems [[arXiv](https://arxiv.org/abs/1512.05742)]
 - [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
 #### Ссылки
