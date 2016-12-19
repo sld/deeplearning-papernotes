@@ -1,3 +1,5 @@
+- Ссылка на статью: [DSTC5](https://github.com/seokhwankim/dstc5/raw/master/docs/handbook_DSTC5.pdf)
+
 # Общее описание
 
 Уже несколько лет подряд проводят соревнование Dialog State Tracking Challenge (DSTC).

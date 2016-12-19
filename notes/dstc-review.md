@@ -1,4 +1,4 @@
-- Ссылка на статью: [Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)]
+- Ссылка на статью: [Dialogue & Discourse](http://dad.uni-bielefeld.de/index.php/dad/article/view/3685)
 
 # Ключевые моменты
 
