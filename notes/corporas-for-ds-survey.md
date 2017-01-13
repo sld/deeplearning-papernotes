@@ -15,3 +15,9 @@
 Подход получивший название *Wizard of Oz* (пользователь думает, что общается с агентом, но на самом деле ему отвечает другой человек) позволяет получить диалоги наиболее близкие к естественным.
 - вымышленные диалоги (фильмы, литература)
 
+##Сводные таблицы по доступным корпусам
+![table 1](https://github.com/yurakuratov/deeplearning-papernotes/blob/patch-2/notes/corporas-for-ds-survey-table-1.png)
+![table 2](https://github.com/yurakuratov/deeplearning-papernotes/blob/patch-2/notes/corporas-for-ds-survey-table-2.png)
+![table 3](https://github.com/yurakuratov/deeplearning-papernotes/blob/patch-2/notes/corporas-for-ds-survey-table-3.png)
+![table 4](https://github.com/yurakuratov/deeplearning-papernotes/blob/patch-2/notes/corporas-for-ds-survey-table-4.png)
+![table 5](https://github.com/yurakuratov/deeplearning-papernotes/blob/patch-2/notes/corporas-for-ds-survey-table-5.png)
