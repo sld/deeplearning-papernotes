@@ -29,7 +29,7 @@
 
 #### 2015-12
 
-- A Survey of Available Corpora for Building Data-Driven Dialogue Systems [[arXiv](https://arxiv.org/abs/1512.05742)]
+- [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](notes/corporas-for-ds-survey.md) [[arXiv](https://arxiv.org/abs/1512.05742)]
 - [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
 #### Ссылки
