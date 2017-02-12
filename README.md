@@ -15,6 +15,8 @@
 
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
 - [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](notes/seq-labeling.md) [[arXiv](https://arxiv.org/abs/1603.01354)]
+- Learning End-to-End Goal-Oriented Dialog [[arXiv](https://arxiv.org/abs/1605.07683)]
+
 
 #### 2016-02
 
