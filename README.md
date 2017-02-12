@@ -1,6 +1,6 @@
 #### 2016-09
 
-- SQuAD: 100,000+ Questions for Machine Comprehension of Text [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/)]
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/)]
 
 #### 2016-07
 
