@@ -102,7 +102,7 @@ End-to-end диалоговые системы на нейросетях, обу
 т.е. насколько хорошо реплика подойдет под контекст диалога.
 
 Модель учат предсказывать реплику при имеющемся контексте:
-[Supervised embedding model](supervised-embeddings.png)
+![Supervised embedding model](supervised-embeddings.png)
 
 
 # Заключение
