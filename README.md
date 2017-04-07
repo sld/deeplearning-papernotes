@@ -1,6 +1,12 @@
+#### 2017-01
+- [Learning End-to-End Goal-Oriented Dialog](notes/end-to-end-goal.md) [[arXiv](https://arxiv.org/abs/1605.07683v3)]
+
+#### 2016-11
+- Generative Deep Neural Networks for Dialogue: A Short Review [[arXiv](https://arxiv.org/abs/1611.06216)]
+
 #### 2016-09
 
-- SQuAD: 100,000+ Questions for Machine Comprehension of Text [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/)]
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/)]
 
 #### 2016-07
 
@@ -15,6 +21,7 @@
 
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
 - [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](notes/seq-labeling.md) [[arXiv](https://arxiv.org/abs/1603.01354)]
+
 
 #### 2016-02
 
