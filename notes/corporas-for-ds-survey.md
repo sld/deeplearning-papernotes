@@ -1,4 +1,4 @@
-#A Survey of Available Corpora for Building Data-Driven Dialogue Systems
+# A Survey of Available Corpora for Building Data-Driven Dialogue Systems
 [1512.05742](https://arxiv.org/abs/1512.05742) 
 
 Обзор доступных корпусов + обзор corpus-based подходов для построения  диалоговых систем.
@@ -15,7 +15,7 @@
 Подход получивший название *Wizard of Oz* (пользователь думает, что общается с агентом, но на самом деле ему отвечает другой человек) позволяет получить диалоги наиболее близкие к естественным.
 - вымышленные диалоги (фильмы, литература)
 
-##Сводные таблицы по доступным корпусам
+## Сводные таблицы по доступным корпусам
 ![table 1](corporas-for-ds-survey-table-1.png)
 ![table 2](corporas-for-ds-survey-table-2.png)
 ![table 3](corporas-for-ds-survey-table-3.png)
