@@ -1,5 +1,6 @@
 - Ссылка на статью: [arXiv](https://arxiv.org/abs/1605.07683v3)
 - Ссылка на датасет: [https://scontent-lax3-1.xx.fbcdn.net/t39.2365-6/13437784_1766606076905967_221214138_n.tgz](https://scontent-lax3-1.xx.fbcdn.net/t39.2365-6/13437784_1766606076905967_221214138_n.tgz).
+- Supervised embedding model implementation: https://github.com/sld/supervised-embedding-model
 
 
 # Общее описание
