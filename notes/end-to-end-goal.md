@@ -1,5 +1,5 @@
 - Ссылка на статью: [arXiv](https://arxiv.org/abs/1605.07683v3)
-- Ссылка на датасет: [https://scontent-lax3-1.xx.fbcdn.net/t39.2365-6/13437784_1766606076905967_221214138_n.tgz](https://scontent-lax3-1.xx.fbcdn.net/t39.2365-6/13437784_1766606076905967_221214138_n.tgz).
+- Ссылка на датасет: [find it in the right](https://research.fb.com/downloads/babi/).
 - Supervised embedding model implementation: https://github.com/sld/supervised-embedding-model
 
 
