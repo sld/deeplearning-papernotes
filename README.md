@@ -23,6 +23,9 @@
 - [Sentence Pair Scoring: Towards Unified Framework for Text Comprehension](notes/sentence-pair-scoring.md) [[arXiv](http://arxiv.org/abs/1603.06127)]
 - [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](notes/seq-labeling.md) [[arXiv](https://arxiv.org/abs/1603.01354)]
 
+#### 2016-03
+
+- Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](https://arxiv.org/abs/1603.06807), [corpora](http://agarciaduran.org)]
 
 #### 2016-02
 
