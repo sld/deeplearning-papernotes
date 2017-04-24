@@ -6,7 +6,7 @@
 
 #### 2016-09
 
-- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/)]
+- [SQuAD: 100,000+ Questions for Machine Comprehension of Text](notes/squad.md) [[arXiv](https://arxiv.org/abs/1606.05250), [github](https://rajpurkar.github.io/SQuAD-explorer/), [review presentation](http://www.slideshare.net/sld7700/ss-75349426)]
 - [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](notes/gntm.md) [[arXiv]](https://arxiv.org/abs/1609.08144)
 
 #### 2016-07
@@ -25,7 +25,7 @@
 
 #### 2016-03
 
-- Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](https://arxiv.org/abs/1603.06807), [corpora](http://agarciaduran.org)]
+- Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus [[arXiv](https://arxiv.org/abs/1603.06807), [corpora](http://agarciaduran.org), [review presentation](http://www.slideshare.net/sld7700/ss-75349426)]
 
 #### 2016-02
 
