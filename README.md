@@ -1,7 +1,13 @@
+#### 2017-04
+
+- Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
+
 #### 2017-01
+
 - [Learning End-to-End Goal-Oriented Dialog](notes/end-to-end-goal.md) [[arXiv](https://arxiv.org/abs/1605.07683v3)]
 
 #### 2016-11
+
 - Generative Deep Neural Networks for Dialogue: A Short Review [[arXiv](https://arxiv.org/abs/1611.06216)]
 
 #### 2016-09
