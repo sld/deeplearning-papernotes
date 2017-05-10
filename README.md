@@ -1,6 +1,14 @@
+#### 2017-05
+
+- Machine Comprehension by Text-to-Text Neural Question Generation [[arXiv](https://arxiv.org/abs/1705.02012)]
+
 #### 2017-04
 
 - Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
+
+#### 2017-03
+
+- Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906), [github](https://github.com/google/seq2seq)]
 
 #### 2017-01
 
