@@ -1,6 +1,7 @@
 #### 2017-05
 
 - Machine Comprehension by Text-to-Text Neural Question Generation [[arXiv](https://arxiv.org/abs/1705.02012)]
+- TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering [[Resource](http://nlp.cs.washington.edu/triviaqa/)]
 
 #### 2017-04
 
