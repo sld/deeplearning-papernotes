@@ -3,10 +3,12 @@
 - Machine Comprehension by Text-to-Text Neural Question Generation [[arXiv](https://arxiv.org/abs/1705.02012)]
 - TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering [[Resource](http://nlp.cs.washington.edu/triviaqa/)]
 - A Survey of Deep Learning Methods for Relation Extraction [[arXiv](https://arxiv.org/abs/1705.03645)]
+- A Deep Reinforced Model for Abstractive Summarization [[arXiv](https://arxiv.org/abs/1705.04304)]
 
 #### 2017-04
 
 - Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
+- Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
 
 #### 2017-03
 
