@@ -10,6 +10,7 @@
 
 - Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
+- SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine [[arXiv](https://arxiv.org/abs/1704.05179)]
 
 #### 2017-03
 
