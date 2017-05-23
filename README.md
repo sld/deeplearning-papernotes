@@ -4,6 +4,7 @@
 - TriviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering [[Resource](http://nlp.cs.washington.edu/triviaqa/)]
 - A Survey of Deep Learning Methods for Relation Extraction [[arXiv](https://arxiv.org/abs/1705.03645)]
 - A Deep Reinforced Model for Abstractive Summarization [[arXiv](https://arxiv.org/abs/1705.04304)]
+- Ask the Right Questions: Active Question Reformulation with Reinforcement Learning [[arXiv](https://arxiv.org/abs/1705.07830)]
 
 #### 2017-04
 
