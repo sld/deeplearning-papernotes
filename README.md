@@ -1,3 +1,7 @@
+#### 2017-06
+
+- [Deal or no deal? Training AI bots to negotiate](notes/negotiate.md) [[facebook blog](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)]
+
 #### 2017-05
 
 - Machine Comprehension by Text-to-Text Neural Question Generation [[arXiv](https://arxiv.org/abs/1705.02012)]
