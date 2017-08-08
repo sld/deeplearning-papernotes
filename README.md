@@ -1,3 +1,7 @@
+#### 2017-07
+
+- Learning Multilingual Joint Sentence Embeddings with Neural Machine Translation  [[ACL](https://research.fb.com/wp-content/uploads/2017/08/multiling_repl4nlp17_fair.pdf)]
+
 #### 2017-06
 
 - [Deal or no deal? Training AI bots to negotiate](notes/negotiate.md) [[facebook blog](https://code.facebook.com/posts/1686672014972296/deal-or-no-deal-training-ai-bots-to-negotiate/)]
