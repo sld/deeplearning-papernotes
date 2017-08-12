@@ -1,6 +1,6 @@
 #### 2017-07
 
-- Learning Multilingual Joint Sentence Embeddings with Neural Machine Translation  [[ACL](https://research.fb.com/wp-content/uploads/2017/08/multiling_repl4nlp17_fair.pdf)]
+- [Learning Multilingual Joint Sentence Embeddings with Neural Machine Translation](notes/multilingual-sentence-embeddings.md) [[ACL](https://research.fb.com/wp-content/uploads/2017/08/multiling_repl4nlp17_fair.pdf)]
 
 #### 2017-06
 
@@ -76,3 +76,4 @@
 - https://github.com/dennybritz/deeplearning-papernotes
 - https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
 - http://www.shortscience.org
+- https://blog.openai.com
