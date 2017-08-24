@@ -71,6 +71,11 @@
 - [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](notes/corporas-for-ds-survey.md) [[arXiv](https://arxiv.org/abs/1512.05742)]
 - [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
+
+#### 1994
+
+- Chatterbots, tinymuds, and the turing test: Entering the loebner prize competition [[AAAI](http://www.aaai.org/Papers/AAAI/1994/AAAI94-003.pdf)]
+
 #### Ссылки
 
 - https://github.com/dennybritz/deeplearning-papernotes
