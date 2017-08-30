@@ -1,3 +1,7 @@
+#### 2017-08
+
+- Referenceless Quality Estimation for Natural Language Generation [[arXiv](https://arxiv.org/abs/1708.01759)]
+
 #### 2017-07
 
 - [Learning Multilingual Joint Sentence Embeddings with Neural Machine Translation](notes/multilingual-sentence-embeddings.md) [[ACL](https://research.fb.com/wp-content/uploads/2017/08/multiling_repl4nlp17_fair.pdf)]
