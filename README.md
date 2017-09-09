@@ -1,5 +1,10 @@
+#### 2017-09
+
+- A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
+
 #### 2017-08
 
+- Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses [[arXiv](https://arxiv.org/abs/1708.07149)]
 - Referenceless Quality Estimation for Natural Language Generation [[arXiv](https://arxiv.org/abs/1708.01759)]
 
 #### 2017-07
