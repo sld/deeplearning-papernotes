@@ -1,7 +1,7 @@
 #### 2017-09
 
 - A Deep Reinforcement Learning Chatbot [[arXiv](https://arxiv.org/abs/1709.02349)]
-- Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning [(arXiv)(https://arxiv.org/pdf/1709.00103.pdf)]
+- Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1709.00103.pdf)]
 
 #### 2017-08
 
