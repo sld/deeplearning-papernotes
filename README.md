@@ -1,7 +1,7 @@
 #### 2017-12
 
 - Avoiding Echo-Responses in a Retrieval-Based Conversation System [[arXiv](https://arxiv.org/abs/1712.05626)]
-- Conversational AI: The Science Behind the Alexa Prize [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/alexaprize.pdf)
+- Conversational AI: The Science Behind the Alexa Prize [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/alexaprize.pdf)]
 - Sounding Board – University of Washington’s Alexa Prize Submission [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/soundingboard.pdf)]
 - Alquist: The Alexa Prize Socialbot [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/alquist.pdf)]
 
