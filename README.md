@@ -4,6 +4,7 @@
 - Conversational AI: The Science Behind the Alexa Prize [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/alexaprize.pdf)]
 - Sounding Board – University of Washington’s Alexa Prize Submission [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/soundingboard.pdf)]
 - Alquist: The Alexa Prize Socialbot [[Amazon](https://s3.amazonaws.com/alexaprize/2017/technical-article/alquist.pdf)]
+- Superhuman AI for heads-up no-limit poker: Libratus beats top professionals [[Science](http://science.sciencemag.org/content/sci/early/2017/12/15/science.aao1733.full.pdf)]
 
 #### 2017-11
 
