@@ -66,6 +66,7 @@
 
 #### 2016-06
 
+- Named Entity Recognition Using Syntactic and Semantic Features and Neural Networks [[Dialogue-21](http://www.dialog-21.ru/media/3475/yusupov.pdf)]
 - [Dialog State Tracking Challenge 5 Handbook v3.1](notes/dstc5-hand.md) [[DSTC5](https://github.com/seokhwankim/dstc5/raw/master/docs/handbook_DSTC5.pdf)]
 - Neural Belief Tracker: Data-Driven Dialogue State Tracking [[arXiv](https://arxiv.org/abs/1606.03777)]
 
