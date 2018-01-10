@@ -20,7 +20,7 @@
 
 - Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses [[arXiv](https://arxiv.org/abs/1708.07149)]
 - Referenceless Quality Estimation for Natural Language Generation [[arXiv](https://arxiv.org/abs/1708.01759)]
-- Speech and Language Processing (3rd ed. draft). Dialog Systems and Chatbots [[Stanford](https://web.stanford.edu/~jurafsky/slp3/29.pdf)]
+- [Speech and Language Processing (3rd ed. draft). Dialog Systems and Chatbots and Advanced Dialog Systems chapters](notes/speech-and-text-book.md) [[Stanford](https://web.stanford.edu/~jurafsky/slp3/)]
 
 #### 2017-07
 
