@@ -19,6 +19,9 @@ Li et al. 2017), inspired by the Turing test. The idea is to train a
 responses and machine-generated responses. The more successful a response
 generation system is at fooling this evaluator, the better the system.
 
+The second is user **intent determination**: what general task or goal is the user trying to accomplish? 
+For example the task could be to Find a Movie, or Show a Flight, or Remove a Calendar Appointment.
+
 - frame-based skill (semantic parsing, slot filling), iob-разметка, example: voiceXML lib.
 - Iteratively test the design on users
 
