@@ -1,3 +1,7 @@
+#### 2018-01
+
+- Personalizing Dialogue Agents: I have a dog, do you have pets too? [[arXiv](https://arxiv.org/abs/1801.07243)]
+
 #### 2017-12
 
 - Avoiding Echo-Responses in a Retrieval-Based Conversation System [[arXiv](https://arxiv.org/abs/1712.05626)]
