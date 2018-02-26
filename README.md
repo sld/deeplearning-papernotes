@@ -1,6 +1,6 @@
 #### 2018-01
 
-- Personalizing Dialogue Agents: I have a dog, do you have pets too? [[arXiv](https://arxiv.org/abs/1801.07243)]
+- [Personalizing Dialogue Agents: I have a dog, do you have pets too?](notes/personalizing-da.md) [[arXiv](https://arxiv.org/abs/1801.07243)]
 
 #### 2017-12
 
