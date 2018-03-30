@@ -55,6 +55,7 @@
 #### 2017-01
 
 - [Learning End-to-End Goal-Oriented Dialog](notes/end-to-end-goal.md) [[arXiv](https://arxiv.org/abs/1605.07683v3)]
+- История развития ИИ. Проблемы этики искусственного интеллекта [[GitHub](notes/referat-yusupov.pdf)]
 
 #### 2016-11
 
