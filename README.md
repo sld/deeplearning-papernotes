@@ -1,6 +1,14 @@
 #### 2018-01
 
-- A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version [[arXiv](https://arxiv.org/pdf/1512.05742)]
+-
+    A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version [[arXiv](https://arxiv.org/pdf/1512.05742)]
+    <details><summary>+</summary>
+    <p>
+    Большая статья, хороший обзор. Из интересного указаны датасеты к которым есть юзер
+    симуляторы и обозначены проблемы диалоговых систем.
+    </p>
+    </details>
+
 - [Personalizing Dialogue Agents: I have a dog, do you have pets too?](notes/personalizing-da.md) [[arXiv](https://arxiv.org/abs/1801.07243)]
 
 #### 2017-12
@@ -46,20 +54,63 @@
 
 #### 2017-04
 
-- Composite task-completion dialogue policy learning via hierarchical deep reinforcement learning [[arXiv](https://arxiv.org/pdf/1704.03084)]
+-
+    Composite task-completion dialogue policy learning via hierarchical deep reinforcement learning [[arXiv](https://arxiv.org/pdf/1704.03084)]
+    <details><summary>+</summary>
+    <p>
+    Те же чуваки делали, примерно также как и в прошлой статье.
+    Тоже goal oriented, но тут подробнее описали как тренировали стейт трекер.
+    Причем его разделили на low-level, где на каждом ходу награда дается и на high-level
+    где награда дается уже достижение большой цели.
+    Ну и цель на подзадачи как-то разбили.
+    </p>
+    </details>
+
 - Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
 - SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine [[arXiv](https://arxiv.org/abs/1704.05179)]
 
 #### 2017-03
 
-- End-to-end task-completion neural dialogue systems [[arXiv](https://arxiv.org/pdf/1703.01008)]
+- Learning Conversational Systems that Interleave Task and Non-Task Content [[arXiv](https://arxiv.org/abs/1703.00099)]
+
+-
+    End-to-end task-completion neural dialogue systems [[arXiv](https://arxiv.org/pdf/1703.01008)]
+    <details><summary>+</summary>
+    <p>
+    Тут разбирается task oriented система. Надо заполнить фрейм.
+    Решают через end2end систему с RL. Для обучения использовали юзер симулятор.
+    Также награду сразу давали, т.к. есть симулятор и это позволило решить проблему
+    с отложенной наградой в диалогах.
+    </p>
+    </details>
+
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906), [github](https://github.com/google/seq2seq)]
 
 #### 2017-01
 
 - Building machines that learn and think like people [[arXiv](https://arxiv.org/pdf/1604.00289)]
-- User involvement in collaborative decision-making dialog systems [[Springer](https://pdfs.semanticscholar.org/655a/)]
+    <details><summary>+</summary>
+    <p>
+    Тут с точки зрения психологии и смежных наук сравнивается текущее состояние ИИ и интеллект человека.
+    Как обычно пишут, что человек намного быстрее и эффективнее обучается.
+    Говорят что это может быть связано с тем что у человека есть врожденные особенности.
+    Типа уже к году человек примерно представляет физику (инерция скорость и тд),
+    язык тоже очень быстро осваивает и тд.
+    </p>
+    </details>
+
+-
+    User involvement in collaborative decision-making dialog systems [[Springer](https://pdfs.semanticscholar.org/655a/)]
+    <details><summary>+</summary>
+    <p>
+    Тут рассмотрен диалоговый агент как помощник и компаньон юзера.
+    Такой collaborive-decision making process.
+    Тут был использован классический подход, отдельная база знаний,
+    planning framework, decision model (всякие эвристики).
+    </p>
+    </details>
+
 - [Learning End-to-End Goal-Oriented Dialog](notes/end-to-end-goal.md) [[arXiv](https://arxiv.org/abs/1605.07683v3)]
 - История развития ИИ. Проблемы этики искусственного интеллекта [[GitHub](notes/referat-yusupov.pdf)]
 
@@ -110,7 +161,16 @@
 
 #### 2002
 
-- Dialogue systems and planning [[Paper - ftp://ftp.irit.fr/pub/IRIT/CSC/tsd02.pdf]]
+-
+    Dialogue systems and planning [[Paper - ftp://ftp.irit.fr/pub/IRIT/CSC/tsd02.pdf]]
+    <details><summary>+</summary>
+    <p>
+    Предложили вместо интентов и использовать план.
+    Есть задача. Задача решается через достижение цели.
+    Цель достигается посредством плана. План - это такой граф, где каждый узел это какое-то действие.
+    План есть у юзера, у доменной области и у агента.
+    </p>
+    </details>
 
 #### 1994
 
