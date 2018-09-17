@@ -1,3 +1,7 @@
+#### 2018-08
+
+-  NIPS Conversational Intelligence Challenge 2017 Winner System: Skill-based Conversational Agent with Supervised Dialog Manager [[ACL](http://aclweb.org/anthology/C18-1312), [Github](https://github.com/sld/convai-bot-1337)]
+
 #### 2018-01
 
 -
