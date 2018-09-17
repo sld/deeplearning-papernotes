@@ -53,7 +53,7 @@
 
 #### 2017-03
 
-- End-to-end task-completion neural dialogue systems [[arXiv](End-to-end task-completion neural dialogue systems)]
+- End-to-end task-completion neural dialogue systems [[arXiv](https://arxiv.org/pdf/1703.01008)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906), [github](https://github.com/google/seq2seq)]
 
 #### 2017-01
@@ -110,7 +110,7 @@
 
 #### 2002
 
-- Dialogue systems and planning [[Paper](ftp://ftp.irit.fr/pub/IRIT/CSC/tsd02.pdf)]
+- Dialogue systems and planning [[Paper - ftp://ftp.irit.fr/pub/IRIT/CSC/tsd02.pdf]]
 
 #### 1994
 
