@@ -1,5 +1,6 @@
 #### 2018-01
 
+- A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version [[arXiv](https://arxiv.org/pdf/1512.05742)]
 - [Personalizing Dialogue Agents: I have a dog, do you have pets too?](notes/personalizing-da.md) [[arXiv](https://arxiv.org/abs/1801.07243)]
 
 #### 2017-12
@@ -45,16 +46,20 @@
 
 #### 2017-04
 
+- Composite task-completion dialogue policy learning via hierarchical deep reinforcement learning [[arXiv](https://arxiv.org/pdf/1704.03084)]
 - Neural Question Generation from Text: A Preliminary Study [[arXiv](https://arxiv.org/abs/1704.01792)]
 - Reading Wikipedia to Answer Open-Domain Questions [[arXiv](https://arxiv.org/abs/1704.00051)]
 - SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine [[arXiv](https://arxiv.org/abs/1704.05179)]
 
 #### 2017-03
 
+- End-to-end task-completion neural dialogue systems [[arXiv](End-to-end task-completion neural dialogue systems)]
 - Massive Exploration of Neural Machine Translation Architectures [[arXiv](https://arxiv.org/abs/1703.03906), [github](https://github.com/google/seq2seq)]
 
 #### 2017-01
 
+- Building machines that learn and think like people [[arXiv](https://arxiv.org/pdf/1604.00289)]
+- User involvement in collaborative decision-making dialog systems [[Springer](https://pdfs.semanticscholar.org/655a/)]
 - [Learning End-to-End Goal-Oriented Dialog](notes/end-to-end-goal.md) [[arXiv](https://arxiv.org/abs/1605.07683v3)]
 - История развития ИИ. Проблемы этики искусственного интеллекта [[GitHub](notes/referat-yusupov.pdf)]
 
@@ -102,6 +107,10 @@
 - [A Survey of Available Corpora for Building Data-Driven Dialogue Systems](notes/corporas-for-ds-survey.md) [[arXiv](https://arxiv.org/abs/1512.05742)]
 - [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
+
+#### 2002
+
+- Dialogue systems and planning [[Paper](ftp://ftp.irit.fr/pub/IRIT/CSC/tsd02.pdf)]
 
 #### 1994
 
