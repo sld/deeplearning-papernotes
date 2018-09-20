@@ -76,7 +76,16 @@
 
 #### 2017-03
 
-- Learning Conversational Systems that Interleave Task and Non-Task Content [[arXiv](https://arxiv.org/abs/1703.00099)]
+-
+    Learning Conversational Systems that Interleave Task and Non-Task Content [[arXiv](https://arxiv.org/abs/1703.00099)]
+    <details><summary>+</summary>
+    <p>
+    Тут в task-oriented систему примешивают chit-chat модуль, берут длинный контекст диалога и это дает им прирост как в user engagement так и в достижении цели.
+    Мерили людьми по 50 диалогов (без chit-chat модуля, с ним, длинный и короткий контексты).
+    В качестве симулятора использовали Alice (рестартили беседу, когда Алиса начинала повторяться).
+    В качестве награды для RL использовали линейную комбинацию длины диалога, информативности и пары других эвристик.
+    </p>
+    </details>
 
 -
     End-to-end task-completion neural dialogue systems [[arXiv](https://arxiv.org/pdf/1703.01008)]
@@ -175,6 +184,20 @@
     План есть у юзера, у доменной области и у агента.
     </p>
     </details>
+
+
+
+#### 2000
+
+-
+    A Plan Based Agent Architecture for Interpreting Natural Language Dialogue [[Paper](http://www.di.unito.it/~guido/articoli/98-ijhcs00.pdf)]
+    <details><summary>+</summary>
+    <p>
+    Рассмотрен диалоговый агент построенный на базе дискурсного анализа и планирования.
+    Речевые акты, модель агента и модель доменной области и т.д.
+    </p>
+    </details>
+
 
 #### 1994
 
