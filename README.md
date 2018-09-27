@@ -4,6 +4,8 @@
 
 #### 2018-01
 
+- How People Negotiate? From the Analysis of a Dialogue Corpus to a Dialogue System [[Paper](http://itnas.civil.duth.gr/inista2018/proceedings/inista2018_NHP1.pdf)]
+
 -
     A Survey of Available Corpora For Building Data-Driven Dialogue Systems: The Journal Version [[arXiv](https://arxiv.org/pdf/1512.05742)]
     <details><summary>+</summary>
@@ -102,6 +104,8 @@
 
 #### 2017-01
 
+- Cluster-Based Graphs for Conceiving Dialog Systems [[Paper](http://ceur-ws.org/Vol-1880/paper2.pdf)]
+
 - Building machines that learn and think like people [[arXiv](https://arxiv.org/pdf/1604.00289)]
     <details><summary>+</summary>
     <p>
@@ -172,6 +176,20 @@
 - [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](notes/towards-ai-complete-question-answering.md)  [[arXiv](https://arxiv.org/abs/1502.05698)]
 
 
+#### 2012
+
+- Hierarchical Conversation Structure Prediction in Multi-Party Chat [[ACL](http://www.aclweb.org/anthology/W12-1607)]
+
+#### 2001
+
+- Разработка диалоговой системы с применением корпуса [[Dialog-21](http://www.dialog-21.ru/digest/2001/articles/koit/)]
+
+
+#### 2003
+
+- Основы теории дискурса [[Book](http://yanko.lib.ru/books/cultur/makarov-osnovu_teorii_diskursa-8l.pdf)]
+- Corpus-based, Statistical Goal Recognition [[Paper](https://www.cs.rochester.edu/research/cisd/pubs/2003/blaylock-allen-ijcai2003.pdf)]
+
 #### 2002
 
 -
@@ -198,6 +216,10 @@
     </p>
     </details>
 
+
+#### 1999
+
+- Speech acts for dialogue agents [[Paper](http://www.math-info.univ-paris5.fr/~moraitis/webpapers/SpeechActs-Dialogues.pdf)]
 
 #### 1994
 
