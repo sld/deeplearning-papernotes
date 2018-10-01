@@ -104,7 +104,7 @@
 
 #### 2017-01
 
-- Cluster-Based Graphs for Conceiving Dialog Systems [[Paper](http://ceur-ws.org/Vol-1880/paper2.pdf)]
+- [Cluster-Based Graphs for Conceiving Dialog Systems](notes/coclustering.md) [[Paper](http://ceur-ws.org/Vol-1880/paper2.pdf)]
 
 - Building machines that learn and think like people [[arXiv](https://arxiv.org/pdf/1604.00289)]
     <details><summary>+</summary>
