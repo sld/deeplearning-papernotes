@@ -1,4 +1,4 @@
-- Cluster-Based Graphs for Conceiving Dialog Systems(notes/coclustering.md) [[Paper](http://ceur-ws.org/Vol-1880/paper2.pdf)]
+- Cluster-Based Graphs for Conceiving Dialog Systems [[Paper](http://ceur-ws.org/Vol-1880/paper2.pdf)]
 
 В это статье предлагается способ получения конечного автомата диалога из диалогового корпуса с использованием бикластеризации.
 
