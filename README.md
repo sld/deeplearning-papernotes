@@ -2,6 +2,11 @@
 
 -  NIPS Conversational Intelligence Challenge 2017 Winner System: Skill-based Conversational Agent with Supervised Dialog Manager [[ACL](http://aclweb.org/anthology/C18-1312), [Github](https://github.com/sld/convai-bot-1337)]
 
+
+#### 2018-04
+
+- [Deep contextualized word representations](notes/elmo.md) [[arXiv](https://arxiv.org/abs/1802.05365)]
+
 #### 2018-01
 
 - How People Negotiate? From the Analysis of a Dialogue Corpus to a Dialogue System [[Paper](http://itnas.civil.duth.gr/inista2018/proceedings/inista2018_NHP1.pdf)]
