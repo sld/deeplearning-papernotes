@@ -11,6 +11,7 @@
 
 - [Universal Sentence Encoder](notes/uni-sent-enc.md) [[arXiv](https://arxiv.org/abs/1803.11175)]
 - [Deep contextualized word representations](notes/elmo.md) [[arXiv](https://arxiv.org/abs/1802.05365)]
+- [Dynamic Meta-Embeddings for Improved Sentence Representations](notes/meta-emb.md) [[arXiv](https://arxiv.org/abs/1804.07983)]
 
 #### 2018-01
 
