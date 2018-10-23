@@ -12,7 +12,7 @@
 2. 
 	DME (dynamic meta-embedding) - проецируем эмбеддинги в общее пространство и вычисляем
 	взвешенную сумму используя self-attention механизм.
-	<img src="dme.png" alt="drawing" width="50%"/>
+	<img src="DME.png" alt="drawing" width="50%"/>
 3. 
 	DME без взвешенной суммы - сумма проекций.
 4. 
