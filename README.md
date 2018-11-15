@@ -1,5 +1,9 @@
 #### 2018-10
 
+- Subgoal Discovery for Hierarchical Dialogue Policy Learning [[arXiv](https://arxiv.org/abs/1804.07855)]
+
+#### 2018-09
+
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](notes/bert.md) [[arXiv](https://arxiv.org/pdf/1810.04805.pdf)]
 
 #### 2018-08
